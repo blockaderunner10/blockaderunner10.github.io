@@ -1,0 +1,202 @@
+* {margin:0;padding:0}
+header {
+    background-color:#3B668D;  
+    margin-top:0px;
+    width:1500px;
+}
+
+body {
+    width: 1500px;
+    margin:auto;
+    background-color: darkgray;
+}
+
+main {
+    background-color: #BACEE0;
+    padding-bottom:870px;
+    padding-left:5px;
+    padding-right:5px
+
+}
+
+header, h3 {
+    margin:0px;
+    font-size:50px;
+    font-family:times-new-roman;
+    color:aliceblue;
+    display:inline;
+    float:left;
+    text-align:center;
+}
+.headerimage {
+    height:160px;
+    width:160px;
+    float: left;
+    display:block;
+    margin-right:10px
+
+}
+text {
+    font-size:50px;
+    font-family:Georgia;
+    color:aliceblue;
+    display:block;
+    text-align: center;  
+}
+/*Infobox*/
+
+.infoboxhead {
+    font-size: medium;
+    text-align: center;
+    font-family: courier;
+    display:block;
+    margin-top: 20px;
+    margin-bottom:10px;
+}
+.infoboximage {
+    height:200px;
+    width:200px;
+    display: block;
+    padding-left: 50px;
+    padding-right: 50px;
+    padding-top: 10px;
+    padding-bottom:10px;
+}
+.Sidebar {
+    font-size:20px;
+    height:auto;
+    width: 300px;
+    background-color: aliceblue;
+    outline-width: 2px;
+    outline-style: double;
+    outline-color: black;
+    margin-right: 5px;
+    padding: 5px;
+    float:right;
+}
+.Sidebarmulti {
+    font-size:20px;
+    height:auto;
+    width: 300px;
+    background-color: aliceblue;
+    outline-width: 2px;
+    outline-style: double;
+    outline-color: black;
+    margin: 30px;
+    padding: 5px;
+    float:right;
+}
+.infoboxflag {
+    height:150px;
+    width:200px;
+    display: block;
+    padding-left: 50px;
+    padding-right: 50px;
+    padding-top: 10px;
+    padding-bottom:10px;
+}
+.infoboximagecap{
+    font-size: small;
+    text-align: center;
+    font-family: courier;
+}
+.infoboxleft{
+    font-family:courier;
+    float:left; 
+    padding-left:5px;   
+    font-size: 15px;
+    width:140px;
+    padding-bottom: 5px;
+}
+.infoboxright {
+    font-family: courier;
+    float:right;
+    padding-right:5px;
+    font-size: 15px;
+    width:140px;
+    padding-bottom: 5px;
+}
+
+.infoboxtext {
+    font-family: courier;
+    text-align: center;
+    font-size: 17px;
+}
+
+h1 {
+    font-size: xxx-large;
+    font-family: trebuchet MS;
+    font-weight: bold;
+}
+/*Main text*/
+.maintext {
+    float:left;
+    width:1140px;
+    height:auto;
+    margin-bottom:5px;
+}
+/*Homepage stuff*/
+.homepage{
+    text-align: center;
+    font-family: courier;
+}
+.homepageleft{
+    text-align: center;
+    font-family: courier;
+    width:740px;
+    height:auto;
+    background-color: aliceblue;
+    outline: black;
+    outline-style: double;
+    outline-width: 2px;
+    float: left;
+}
+.homepageright{
+    text-align: center;
+    font-family: courier;
+    width:740px;
+    height:auto;
+    background-color: aliceblue;
+    outline: black;
+    outline-style: double;
+    outline-width: 2px;
+    float: right;
+}
+.homepageh2{
+    text-align: center;
+    font-family: courier;
+    font-size: medium;
+}
+/*Footer*/
+footer {
+    background-color:#062C4F;
+    margin-top:0px;
+    width:1500px;
+    color:aliceblue;
+    float:left;
+}
+/* navigation bar*/
+nav {
+    background-color: #6A8FB0;
+    width:1500px;
+    height:40px;
+    display: inline-block;
+}
+
+nav ul {
+    list-style-type:none
+}
+.navurl {
+    color:aliceblue
+}
+nav ul li {
+    float:left;
+    width:1500px;
+    text-align:center
+}
+nav ul li a {display:block;
+    padding:10px
+}
+nav ul li a:hover {background-color:#edd9c0;
+    color:#2E286B
+}
