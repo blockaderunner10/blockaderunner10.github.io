@@ -177,6 +177,7 @@ h1 {
     font-family: courier;
     width:740px;
     height:auto;
+    padding-right:10px;
     background-color: aliceblue;
     outline: black;
     outline-style: double;
@@ -188,6 +189,7 @@ h1 {
     font-family: courier;
     width:740px;
     height:auto;
+    padding-left:10px;
     background-color: aliceblue;
     outline: black;
     outline-style: double;
