@@ -155,7 +155,18 @@ h1 {
     outline-color: black;
     float:left;
 }
-
+.sectionright {
+    text-align: center;
+    font-family: courier;
+    height:450px;
+    width:700px;
+    padding:25px;
+    background-color: aliceblue;
+    outline-width: 2px;
+    outline-style: double;
+    outline-color: black;
+    float:right;
+}
 /*Homepage stuff*/
 .homepage{
     text-align: center;
