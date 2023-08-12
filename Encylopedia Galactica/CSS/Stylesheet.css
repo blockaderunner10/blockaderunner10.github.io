@@ -130,16 +130,6 @@ h1 {
 }
 
 
-
-.characterimg{
-    height:150px;
-    width:150px;
-    display: block;
-    padding-left: 50px;
-    padding-right: 50px;
-    padding-top: 10px;
-    padding-bottom:10px;
-}
 /*Main text*/
 .maintext {
     float:left;
@@ -182,6 +172,17 @@ h1 {
     outline-style: double;
     outline-color: black;
     float:right;
+}
+.characterimg{
+    height:150px;
+    width:150px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    padding-left: 50px;
+    padding-right: 50px;
+    padding-top: 10px;
+    padding-bottom:5px;
 }
 /*Homepage stuff*/
 .homepage{
