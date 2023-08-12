@@ -159,6 +159,7 @@ h1 {
     outline-color: black;
     float:left;
     justify-content: left;
+    font-size: smaller;
 }
 .sectionright {
     text-align: center;
@@ -172,6 +173,7 @@ h1 {
     outline-style: double;
     outline-color: black;
     float:right;
+    font-size: smaller;
 }
 .characterimg{
     height:150px;
